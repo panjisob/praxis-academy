@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array_exists",
+            "request": "launch",
+            "mainClass": "Array_exists"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "lat1.Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JsonEncodeDemo",
+            "request": "launch",
+            "mainClass": "JsonEncodeDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateObjectDemo",
+            "request": "launch",
+            "mainClass": "CreateObjectDemo"
+        }
+    ]
+}
